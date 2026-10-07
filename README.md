@@ -71,6 +71,6 @@ Client ──POST /api/transfers──► BankService.Transfer
 dotnet run
 ```
 
-Open http://localhost:5080/swagger and try, in order: create two accounts, get a number, transfer between them.
+Open http://localhost:8092/swagger and try, in order: create two accounts, get a number, transfer between them.
 
 Accounts are stored in memory and reset on restart.

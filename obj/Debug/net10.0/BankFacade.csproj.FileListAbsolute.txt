@@ -32,3 +32,6 @@
 /Users/abdelrahmanelshorafa/Projects/system-design-patterns/facade-pattern/BankFacade/obj/Debug/net10.0/BankFacade.pdb
 /Users/abdelrahmanelshorafa/Projects/system-design-patterns/facade-pattern/BankFacade/obj/Debug/net10.0/BankFacade.genruntimeconfig.cache
 /Users/abdelrahmanelshorafa/Projects/system-design-patterns/facade-pattern/BankFacade/obj/Debug/net10.0/ref/BankFacade.dll
+/Users/abdelrahmanelshorafa/Projects/system-design-patterns/facade-pattern/BankFacade/bin/Debug/net10.0/ClientApp/package-lock.json
+/Users/abdelrahmanelshorafa/Projects/system-design-patterns/facade-pattern/BankFacade/bin/Debug/net10.0/ClientApp/package.json
+/Users/abdelrahmanelshorafa/Projects/system-design-patterns/facade-pattern/BankFacade/obj/Debug/net10.0/BankFacade.sourcelink.json
